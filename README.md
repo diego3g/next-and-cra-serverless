@@ -7,3 +7,10 @@ Besides that, it should be able to access both application routes through the Ne
 ## How it works
 
 On route access, Next.js will try to find a page within the pages directory and, if not found, Next.js will internally rewrite the route to the CRA application.
+
+## Routes
+
+- http://skylab-next.fala.dev/ (Next.js)
+- http://skylab-next.fala.dev/cart (Next.js)
+- http://skylab-next.fala.dev/product (CRA)
+- http://skylab-next.fala.dev/catalog (CRA)
