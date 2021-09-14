@@ -1,0 +1,17 @@
+{
+  "name": "a4kj4i-5aipk7p",
+  "hash": "x7lKJHWhBatsExqZo4a2iK4Fd/d6CokTtS+ty0OfDrY=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/dieegosf/www/cra-next/skylab-next/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::011801494293:role/a4kj4i-dt4b78r"
+  },
+  "arn": "arn:aws:lambda:us-east-1:011801494293:function:a4kj4i-5aipk7p",
+  "region": "us-east-1"
+}

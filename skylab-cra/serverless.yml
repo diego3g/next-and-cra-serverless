@@ -1,0 +1,9 @@
+name: skylab-cra
+component: website
+
+inputs:
+  domain: "skylab-cra.fala.dev"
+  src:
+    src: ./
+    hook: npm run build
+    dist: build

@@ -1,0 +1,13 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "fala.dev",
+  "subdomains": [
+    {
+      "domain": "skylab-next.fala.dev",
+      "distributionId": "E1PWLI9VCJ8FT0",
+      "url": "https://d2vvttejs9x5h9.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ]
+}
